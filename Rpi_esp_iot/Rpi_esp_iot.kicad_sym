@@ -1878,7 +1878,6 @@
 			(pin power_in line
 				(at 22.86 40.64 180)
 				(length 5.08)
-				(hide yes)
 				(name "VBAT"
 					(effects
 						(font
@@ -1897,7 +1896,6 @@
 			(pin power_in line
 				(at 22.86 40.64 180)
 				(length 5.08)
-				(hide yes)
 				(name "VBAT"
 					(effects
 						(font
